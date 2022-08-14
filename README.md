@@ -1,4 +1,4 @@
-# Machine-Learning
+# Random-Forest-Classification
 ## 1. Introduction
 In machine learning, classification is a supervised
 learning technique used to identify the category of new
